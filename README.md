@@ -1,3 +1,6 @@
 # lab05
 this is a pratice time
-hello
+<<<<<<< HEAD
+=======
+hi
+>>>>>>> 894afa1 (changes)
